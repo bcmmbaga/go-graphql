@@ -9,6 +9,7 @@ require (
 	github.com/mattn/go-runewidth v0.0.12 // indirect
 	github.com/onsi/ginkgo v1.16.1 // indirect
 	github.com/onsi/gomega v1.11.0 // indirect
+	github.com/sirupsen/logrus v1.8.1
 	github.com/theckman/yacspin v0.8.0
 	github.com/vektah/gqlparser/v2 v2.1.0
 	github.com/vmihailenco/msgpack/v5 v5.3.1 // indirect
